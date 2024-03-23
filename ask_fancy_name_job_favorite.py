@@ -1,5 +1,7 @@
 #LIBRARIES AND PACKAGES
-
+import pyfiglet
+import pystyle
+from pystyle import Colors, Colorate
 #PSEUDOCODE
 
 #Input Name
